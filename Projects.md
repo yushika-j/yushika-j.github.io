@@ -14,7 +14,7 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
   - [Mastercard Cybersecurity Virtual Experience Program](#mastercard-cybersecurity-virtual-experience-program-august-2024)
 - [Projects/Activities](#projectsactivities)
   - [Machine Learning Spam Email Detection Project](#machine-learning-spam-email-detection-project)
-  - [Small Office/Home Office Network Design Project](#small-office/home-office-network-design-project)
+  - [Small Office/Home Office Network Design Project](#small-officehome-office-network-design-project)
   - [Home SIEM Lab Setup](#home-siem-lab-setup)
 - [Labs](#labs)
   - [TryHackMe](#tryhackme)
