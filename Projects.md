@@ -44,13 +44,13 @@ As you explore this page, you’ll find the highlights of programs I’ve comple
 - Focused on improving model robustness for reliable email classification.
 
 ### Small Office/Home Office Network Design Project
-[View Full Report](activities/SOHO-project)
+[View Full Report](https://github.com/yushika-j/SOHO-project)
 - Designed and configured a small office/home office (SOHO) network using Cisco Packet Tracer.
 - Set up IP addresses, subnets, and gateways for devices, ensuring connectivity by successful ping testing.
 - Gained experience in network design, troubleshooting, and configuration management.
 
 ### Home SIEM Lab Setup
-[View Full Report](activities/Home-SIEM-Lab-project)
+[View Full Report](activities/Building-a-Home-SIEM-Lab.pdf)
 - Built a home SIEM lab using Elastic SIEM and Kali Linux.
 - Configured data forwarding from the Kali VM to the SIEM via the Elastic Beats agent and analyzed logs using the Elastic web interface.
 - Created a dashboard to visualize security events and an alert mechanism for real-time threat detection.
