@@ -21,7 +21,6 @@ Here, you'll find a showcase of my journey through the world of cybersecurity, i
      - [🛠️ Tools/Languages](#%EF%B8%8F-toolslanguages)
 - [📂 Projects](#-projects)
 - [📄 Resume](#-resume)
-- [✍🏽 Blog Posts](#-blog-posts)
 - [💬 Contact Information](#-contact-information)
 
 ---
@@ -46,25 +45,6 @@ I've always been passionate about cybersecurity, drawn to the challenge of prote
 - ISC2 Certified in Cybersecurity
 - CompTIA Security+ (Expected 10/2024)
 - Google CyberSecurity Professional
-- Qualys Vulnerability Management, Detection, and Response (VMDR)
-- Qualys CyberSecurity Asset Management (CSAM)
-- Qualys Vulnerability Management Scanning (VMS)
-- United States Department of Homeland Security, National Incident Management System (NIMS)
-   - **Incident Response & Command System Expertise**
-      - IS-100.C: Introduction to Incident Command System (ICS-100)
-      - IS-200.C: Basic Incident Command System for Initial Response (ICS-200)
-      - IS-700.B: National Incident Management System (NIMS)
-      - IS-800.D: National Response Framework, An Introduction
-      - IS-2200: Basic Emergency Operations Center Functions
-   - **Critical Infrastructure Security & Risk Management**
-      - IS-860.C: National Infrastructure Protection Plan, An Introduction
-      - IS-906: Workplace Security Awareness
-      - IS-915: Protecting Critical Infrastructure Against Insider Threats
-      - IS-916: Critical Infrastructure Security: Theft and Diversion
-   - **Disaster Recovery & Continuity Planning**
-      - IS-230.E: Fundamentals of Emergency Management
-      - IS-2500: National Prevention Framework
-      - IS-1300.A: Introduction to Continuity
 
 ---
 
@@ -88,22 +68,7 @@ I've always been passionate about cybersecurity, drawn to the challenge of prote
    - Risk Assessment
    - **CIA Triad (Confidentiality, Integrity, Availability)**
    - **Identity and Access Management (IAM)**
-   - **Authentication, Authorization, and Accounting (AAA)**
-   - **Governance, Risk, and Compliance (GRC)**:
-     - PCI DSS
-     - HIPAA
-     - GDPR
-     - ISO/IEC 27001
-     - NIMS (National Incident Management System)
-     - FEMA (Federal Emergency Management Agency)
-     - NIPP (National Infrastructure Protection Plan)
-     - SOC Type 1 / SOC Type 2
-     - FedRAMP
-   - **Cybersecurity Frameworks**:
-     - MITRE ATT&CK
-     - NIST (SP 800-53, SP 800-61, SP 800-171)
-     - OWASP Top 10
-     - CIS Controls
+   
 
 #### 💼 Professional Skills
    - Incident Response Leadership
@@ -116,16 +81,13 @@ I've always been passionate about cybersecurity, drawn to the challenge of prote
 
 #### 🛠️ Tools/Languages
    - Splunk
-   - Qualys
    - Wireshark
    - BurpSuite
    - Metasploit
    - Microsoft Azure + Sentinel
    - Linux
-   - Chronicle
    - Python
    - Git
-   - Suricata
    - TCPDump
    - SQL
 
@@ -133,19 +95,26 @@ I've always been passionate about cybersecurity, drawn to the challenge of prote
 
 ## 📂 Projects
 
-In this portfolio, you will find several projects that highlight my skills and practical experience. Here are three of my most recent projects:
+In this portfolio, you will find several projects that highlight my skills and practical experience. Here are my most recent projects:
 
-### Telstra Cybersecurity Program (September 2024)
-- Served as an **Analyst and Security Engineer** in the **Telstra Security Operations Center (SOC)**, leading efforts to respond to malware attacks and implementing a custom Python script for a firewall rule to block malicious traffic.
-- Analyzed **firewall logs** to detect malicious patterns and conducted postmortem analysis for root cause identification, improving overall system hardening.
+### Machine Learning Spam Email Detection Project
+[View Full Report](activities/Spam-Email-Detector.ipynb-Colab.pdf)  
+- Developed a machine learning model to classify emails as spam or non-spam, using logistic regression for simplicity and effectiveness.
+- Preprocessed email data to ensure accurate representation and applied hyperparameter tuning using GridSearchCV for optimization.
+- Achieved a mean test accuracy of 98.51% through rigorous cross-validation.
+- Focused on improving model robustness for reliable email classification.
 
-### Commonwealth Bank Intro to Cybersecurity Program (August 2024)
-- Worked as a **Cybersecurity Generalist** on Commonwealth Bank's **Fraud Detection and Response Team**, leveraging **Splunk** to analyze fraud patterns and manage phishing and malware incidents.
-- Conducted **penetration testing** on web applications, identifying critical vulnerabilities and delivering remediation strategies.
+### Small Office/Home Office Network Design Project
+[View Full Report](https://github.com/yushika-j/SOHO-project)
+- Designed and configured a small office/home office (SOHO) network using Cisco Packet Tracer.
+- Set up IP addresses, subnets, and gateways for devices, ensuring connectivity by successful ping testing.
+- Gained experience in network design, troubleshooting, and configuration management.
 
-### PwC Switzerland Cybersecurity Virtual Experience Program (August 2024)
-- Served as a **Cybersecurity Analyst and Consultant** on PwC’s **Cybersecurity Team**, performing risk assessments and aligning recommendations with **NIST** and **ISO/IEC 27001** standards.
-- Developed a **comprehensive defense strategy**, including network segmentation, firewall optimization, and risk management presentations for client stakeholders.
+### Home SIEM Lab Setup
+[View Full Report](activities/Building-a-Home-SIEM-Lab.pdf)
+- Built a home SIEM lab using Elastic SIEM and Kali Linux.
+- Configured data forwarding from the Kali VM to the SIEM via the Elastic Beats agent and analyzed logs using the Elastic web interface.
+- Created a dashboard to visualize security events and an alert mechanism for real-time threat detection.
 
 [More projects, labs, programs, and experiences](Projects.md) will be added to my project portfolio as I continue to develop my skills and complete new work.
 
@@ -153,17 +122,10 @@ In this portfolio, you will find several projects that highlight my skills and p
 
 ## 📄 Resume
 
-My resume is available for download [here](RESUME2025.pdf) 
+My resume is available for download [here](RESUME2025la.pdf) 
 
 ---
 
-## ✍🏽 Blog Posts
-
-I regularly publish blog-style posts that dive into current cybersecurity trends, personal reflections on my learning process, and how I’ve applied theoretical knowledge to real-world problems. Stay tuned for insights on emerging cybersecurity threats, best practices, and more!
-
-[Check out my blog!](blog.md)
-
----
 
 ## 💬 Contact Information
 
