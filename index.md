@@ -134,6 +134,6 @@ Feel free to reach out to me if you have any questions, opportunities, or just w
 - **Email**:
    - personal: yushikajhundoo@gmail.com
 - **LinkedIn**: [Yushika Jhundoo](https://www.linkedin.com/in/yushika-jhundoo/) 
-- **Portfolio**: [@yushika-j]()
+- **Portfolio**: [@yushika-j](www.yushikajhundoo.github.io)
 
 I’m always open to networking, collaboration, and opportunities to contribute to the cybersecurity community. Thanks for visiting my portfolio!
